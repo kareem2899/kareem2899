@@ -6,9 +6,9 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=CODEGAINERS&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=kareem2899&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/CODEGAINERS?style=for-the-badge&color=a78bfa&labelColor=0f172a&label=FOLLOWERS)](https://github.com/CODEGAINERS)
+[![GitHub followers](https://img.shields.io/github/followers/kareem2899?style=for-the-badge&color=a78bfa&labelColor=0f172a&label=FOLLOWERS)](https://github.com/kareem2899)
 
 </div>
 
@@ -49,6 +49,7 @@ print(me.mission())
 <div align="center">
 
 ### 🤖 AI, ML & Computer Vision
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -57,6 +58,7 @@ print(me.mission())
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### 🔮 LLMs & AI Systems
+
 ![LLaMA](https://img.shields.io/badge/LLaMA_3-412991?style=for-the-badge&logo=meta&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-38bdf8?style=for-the-badge&logoColor=white)
@@ -64,6 +66,7 @@ print(me.mission())
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-a78bfa?style=for-the-badge)
 
 ### 📊 Data Science & Remote Sensing
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -71,6 +74,7 @@ print(me.mission())
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### 🌐 Web & Full-Stack Development
+
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -78,6 +82,7 @@ print(me.mission())
 ![REST API](https://img.shields.io/badge/REST_APIs-38bdf8?style=for-the-badge)
 
 ### ☁️ DevOps & Deployment
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -90,16 +95,16 @@ print(me.mission())
 
 ## 🛰️ Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| 🚢 **Vessel Classification (SAR)** | ResNet model on Sentinel-1 SAR imagery for maritime classification | PyTorch · ResNet · SAR |
-| 🔍 **Vessel Detection (YOLOv8)** | Fine-tuned YOLOv8 on Sentinel-2 optical images for vessel detection | YOLOv8 · Sentinel-2 |
-| 🌊 **Red Tide Segmentation** | U-Net + EfficientNet-B3 for harmful algal bloom detection | U-Net · EfficientNet-B3 |
-| 🔥 **Wildfire Detection** | Deep segmentation of burned areas from satellite imagery | U-Net · Sentinel-2 |
-| 🌍 **Flood Prediction** | VGG16 model combining Sentinel-1 SAR + Sentinel-2 optical | VGG16 · Multi-source |
-| 🤖 **AI Data Analysis Platform** | Full-stack Django app with LLaMA 3 + PandasAI for auto-insights | Django · LLaMA 3 · RAG |
-| 🖥️ **Vision Annotation Tool** | PyQt5 desktop app for segmentation masks & object detection labels | PyQt5 · OpenCV |
-| 🛢️ **Oil Spill Report Generator** | Auto-generates structured environmental reports from spill data | AI · NLP |
+| Project                            | Description                                                         | Tech                    |
+| ---------------------------------- | ------------------------------------------------------------------- | ----------------------- |
+| 🚢 **Vessel Classification (SAR)** | ResNet model on Sentinel-1 SAR imagery for maritime classification  | PyTorch · ResNet · SAR  |
+| 🔍 **Vessel Detection (YOLOv8)**   | Fine-tuned YOLOv8 on Sentinel-2 optical images for vessel detection | YOLOv8 · Sentinel-2     |
+| 🌊 **Red Tide Segmentation**       | U-Net + EfficientNet-B3 for harmful algal bloom detection           | U-Net · EfficientNet-B3 |
+| 🔥 **Wildfire Detection**          | Deep segmentation of burned areas from satellite imagery            | U-Net · Sentinel-2      |
+| 🌍 **Flood Prediction**            | VGG16 model combining Sentinel-1 SAR + Sentinel-2 optical           | VGG16 · Multi-source    |
+| 🤖 **AI Data Analysis Platform**   | Full-stack Django app with LLaMA 3 + PandasAI for auto-insights     | Django · LLaMA 3 · RAG  |
+| 🖥️ **Vision Annotation Tool**      | PyQt5 desktop app for segmentation masks & object detection labels  | PyQt5 · OpenCV          |
+| 🛢️ **Oil Spill Report Generator**  | Auto-generates structured environmental reports from spill data     | AI · NLP                |
 
 ---
 
@@ -118,13 +123,13 @@ print(me.mission())
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CODEGAINERS&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=030712&title_color=38bdf8&icon_color=a78bfa&text_color=f1f5f9&border_radius=12" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kareem2899&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=030712&title_color=38bdf8&icon_color=a78bfa&text_color=f1f5f9&border_radius=12" height="170"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODEGAINERS&layout=compact&theme=midnight-purple&hide_border=true&bg_color=030712&title_color=38bdf8&text_color=f1f5f9&border_radius=12" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareem2899&layout=compact&theme=midnight-purple&hide_border=true&bg_color=030712&title_color=38bdf8&text_color=f1f5f9&border_radius=12" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CODEGAINERS&theme=midnight-purple&hide_border=true&background=030712&ring=38bdf8&fire=a78bfa&currStreakLabel=38bdf8&border_radius=12" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kareem2899&theme=midnight-purple&hide_border=true&background=030712&ring=38bdf8&fire=a78bfa&currStreakLabel=38bdf8&border_radius=12" width="60%"/>
 </div>
 
 ---
@@ -132,7 +137,7 @@ print(me.mission())
 ## 🏅 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CODEGAINERS&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kareem2899&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 </div>
 
 ---
@@ -140,7 +145,7 @@ print(me.mission())
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CODEGAINERS&bg_color=030712&color=38bdf8&line=a78bfa&point=ffffff&area=true&hide_border=true&border_radius=12" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kareem2899&bg_color=030712&color=38bdf8&line=a78bfa&point=ffffff&area=true&hide_border=true&border_radius=12" width="95%"/>
 </div>
 
 ---
@@ -160,7 +165,7 @@ print(me.mission())
 
 <div align="center">
 
-> *"Intelligence is not just about processing data — it's about understanding the world."*
+> _"Intelligence is not just about processing data — it's about understanding the world."_
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c1a3a,50:0f172a,100:030712&height=100&section=footer" width="100%"/>
 
