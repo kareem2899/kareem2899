@@ -2,15 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,40:0f172a,100:0c1a3a&height=220&section=header&text=Karim%20Hasabelnaby&fontSize=52&fontColor=38bdf8&fontAlignY=36&desc=AI%20Developer%20%7C%20Data%20Scientist%20%7C%20Computer%20Vision%20Engineer&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+AI+Systems+that+See+%F0%9F%9B%B8%EF%B8%8F;Deep+Learning+%7C+Computer+Vision+%7C+Remote+Sensing;LLMs+%7C+RAG+%7C+AI-Powered+Applications;Ranked+2nd+in+AI+Science+Major+%F0%9F%8E%93+%C2%B7+GPA+3.686" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+AI+Systems+that+See+%F0%9F%9B%B8%EF%B8%8F;Deep+Learning+%7C+Computer+Vision+%7C+Remote+Sensing;LLMs+%7C+RAG+%7C+AI-Powered+Applications" alt="Typing SVG" /></a>
 
 <br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CODEGAINERS&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/CODEGAINERS?style=for-the-badge&color=a78bfa&labelColor=0f172a&label=FOLLOWERS)](https://github.com/CODEGAINERS)
-&nbsp;
-![GPA](https://img.shields.io/badge/GPA-3.686_%7C_2nd_in_Major-34d399?style=for-the-badge&labelColor=0f172a)
 
 </div>
 
@@ -25,8 +23,6 @@ class KarimHasabelnaby:
         self.age         = 24
         self.location    = "Maadi, Cairo, Egypt 🇪🇬"
         self.education   = "B.Sc AI Science — Galala University"
-        self.gpa         = 3.686
-        self.rank        = "2nd in Entire Major 🏆"
         self.role        = "Data Scientist @ Arias Tech Solution"
         self.specialties = [
             "Computer Vision",
@@ -153,8 +149,8 @@ print(me.mission())
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karim-hasabelnaby)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CODEGAINERS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karim-hasabelnaby-b8b4ba277/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kareem2899)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kareem.mamdouhk42@gmail.com)
 [![Phone](https://img.shields.io/badge/+201125480985-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201125480985)
 
